@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="dev1.a3jm.com" uploadOnCheckin="e99aa2c9-dd4e-4fd3-a9b3-32fa585f06b5">
+    <serverData>
+      <paths name="dev1.a3jm.com">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="dev1.a3jm.com" />
+  </component>
+</project>
