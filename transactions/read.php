@@ -1,6 +1,6 @@
 <?php
 
-#This is a new transaction - whatever
+#This is a new transaction - whatever2
 header("Content-Type: application/json; charset=UTF-8");
 
 include_once '../config/dbclass.php';
