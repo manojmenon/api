@@ -12,7 +12,7 @@ $family = new Family($connection);
 $stmt = $family->read();
 $count = $stmt->rowCount();
 
-#print "Returned Rows = " . $count . " .\n" ;
+print "Returned Rows = " . $count . " .\n" ;
 
 if ($count > 0) {
 
