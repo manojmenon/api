@@ -1,4 +1,6 @@
 <?php
+
+#This is a new transaction
 header("Content-Type: application/json; charset=UTF-8");
 
 include_once '../config/dbclass.php';
