@@ -14,7 +14,7 @@ $transaction = new Transaction($connection);
 $stmt = $transaction->read();
 $count = $stmt->rowCount();
 
-#print "3Newly Returned Rows = " . $count . " .\n" ;
+print "3Newly Returned Rows = " . $count . " .\n" ;
 
 if ($count > 0) {
 
